@@ -1,0 +1,3 @@
+﻿  Projeto_jogo_lic.c
+C:\Users\guerra\source\repos\Projeto_jogo_lic\Projeto_jogo_lic\Projeto_jogo_lic.c(277,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Projeto_jogo_lic.vcxproj -> C:\Users\guerra\source\repos\Projeto_jogo_lic\x64\Debug\Projeto_jogo_lic.exe
